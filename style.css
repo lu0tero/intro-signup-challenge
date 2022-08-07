@@ -167,7 +167,8 @@ button:focus {
 
 /* Footer */
 .attribution { 
-    font-size: 11px;
+    color: white;
+    font-size: 12px;
     text-align: center; 
 }
 
